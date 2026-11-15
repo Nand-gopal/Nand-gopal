@@ -1,64 +1,62 @@
 # 👋 Hey, I'm Nand Gopal!
 
-<h3 align="center">B.Tech Computer Science & Engineering Student</h3>
+<h3 align="center">🎓 B.Tech Computer Science & Engineering Student</h3>
 
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Java & DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Web+Development;Learning+Java+%26+Data+Structures;Building+Projects+and+Learning+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Web+Development;Learning+Java+%26+Data+Structures;Building+Projects+Every+Day!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nand-gopal&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nand-gopal?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nand-gopal?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/nand-gopal?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I'm a B.Tech Computer Science & Engineering student.
+- 🎓 B.Tech Computer Science & Engineering Student.
 - 💻 Interested in Full-Stack Web Development.
-- 🌱 Currently learning Web Development, Java and DSA.
-- 🔭 Working on a **Hospital Management System**.
-- 🧠 Interested in learning new technologies and solving problems.
-- 🎯 My goal is to become a skilled Software Developer.
+- 🌱 Currently learning **Web Development, Java and DSA**.
+- 🔭 Working on **Hospital Management System**.
+- 🧠 Interested in problem-solving and new technologies.
+- 🎯 Goal: Become a skilled Software Developer.
 - ⚡ Believe in continuous learning and never giving up.
 
 ---
 
 ## 🛠️ Languages & Technologies
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" alt="Programming Languages" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend Technologies" />
 </p>
 
-### Backend Development & Database
+### ⚙️ Backend Development & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,mongodb,mysql,sqlite" alt="Backend and Database Technologies" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
 </p>
 
-### Data Analysis
+### 📊 Data Analysis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
 </p>
 
 ---
@@ -69,7 +67,8 @@
 
 A web-based Hospital Management System designed to manage hospital operations efficiently.
 
-**Key Modules:**
+**Key Features:**
+
 - 👨‍⚕️ Doctor Management
 - 🧑‍🤝‍🧑 Patient Management
 - 📅 Appointment Management
@@ -77,31 +76,35 @@ A web-based Hospital Management System designed to manage hospital operations ef
 - 💳 Billing Management
 - 📋 Medical Records
 
-**Technologies:** Python, Flask, SQLite, HTML, CSS
+**Tech Stack:** Python | Flask | SQLite | HTML | CSS
 
 🔗 [Explore My GitHub Repositories](https://github.com/nand-gopal?tab=repositories)
-
-*Add the direct Hospital Management System repository link here once it is published.*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nand-gopal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nand-gopal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nand-gopal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nand-gopal&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-### ⭐ GitHub Contribution Streak
+---
+
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-gopal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nand-gopal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity Graph
+---
+
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nand-gopal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <a href="https://github.com/nand-gopal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nand-gopal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -109,15 +112,7 @@ A web-based Hospital Management System designed to manage hospital operations ef
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nand-gopal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📅 My Coding Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nand-gopal&theme=tokyonight&hide_border=true" alt="Coding Activity" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nand-gopal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -138,8 +133,6 @@ A web-based Hospital Management System designed to manage hospital operations ef
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-*LinkedIn: Add your correct profile URL when available.*
 
 ---
 
