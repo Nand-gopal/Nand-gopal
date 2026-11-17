@@ -15,15 +15,15 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student.
-- 💻 Interested in Full-Stack Web Development.
-- 🌱 Currently learning **Web Development, Java and DSA**.
-- 🔭 Working on **Hospital Management System**.
-- 🧠 Interested in problem-solving and new technologies.
-- 🎯 Goal: Become a skilled Software Developer.
-- ⚡ Believe in continuous learning and never giving up.
+-  B.Tech Computer Science & Engineering Student.
+-  Interested in Full-Stack Web Development.
+-  Currently learning **Web Development, Java and DSA**.
+-  Working on **Hospital Management System**.
+-  Interested in problem-solving and new technologies.
+-  Goal: Become a skilled Software Developer.
+-  Believe in continuous learning and never giving up.
 
 ---
 
